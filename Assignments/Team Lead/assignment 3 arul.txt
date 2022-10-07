@@ -1,3 +1,5 @@
+python code of blinking LED and Traffic lights for Raspberry pi
+
 from gpiozero import Button, TrafficLights, Buzzer    
 from time import sleep    
     
